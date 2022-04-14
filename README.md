@@ -1,0 +1,2 @@
+# BetterTherapy
+BetterTherapy helps psychologists
