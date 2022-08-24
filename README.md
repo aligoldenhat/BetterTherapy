@@ -1,4 +1,4 @@
-This project has won the cs50 fair award
+This project has won the cs50x fair award
 # BetterTherapy
 BetterTherapy helps psychologists
 
