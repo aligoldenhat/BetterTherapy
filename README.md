@@ -1,10 +1,14 @@
 This project has won the cs50x fair award
 
 # BetterTherapy
-BetterTherapy helps psychologists
 
-This project analyzes emotions from a therapy session video using three deep learning models. It detects the intensity of emotions by analyzing facial expressions, tone of voice, and spoken words. The system identifies and stores emotionally intense moments (both audio and text) as sensitive moments. Additionally, it generates a sentiment graph to visualize the emotional trends throughout the session.
-The main goal and idea behind this project was to create a tool useful for psychologists, but it can be applied to any video.
+BetterTherapy helps psychologists by analyzing emotions from a therapy session video using three deep learning models. It detects the intensity of emotions by analyzing facial expressions, tone of voice, and spoken words. The system identifies and stores emotionally intense moments (both audio and text) as sensitive moments. Additionally, it generates a sentiment graph to visualize the emotional trends throughout the session.  
+
+The models used in this project were sourced from GitHub repositories, and you can find them at the following links:  
+- [Model for persian sentiment analysis](<https://github.com/kasrahabib/persian-sentiment-analysis>)
+
+The main goal of this project is to create a tool useful for psychologists, but it can be applied to any video.
+
 
 فیلم جلسه تراپی گرفته و با سه مدل یادگیری عمیق احساسات را تحلیل میکند و می تواند میزان این احساسات (احساسات در صورت و لحن صحبت کردن و جمله های گفته شده) را تشخیص دهد و لحظاته اوج احساسی را به عنوان لحظات حساس ذخیره میکند (به صورت صدا و متن) و همچنین نمودار احساسات جلسه ی مشاوره را نشان میدهد 
 
